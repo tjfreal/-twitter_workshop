@@ -1,3 +1,9 @@
+Documentation from DocNow:
+https://github.com/DocNow/twarc
+
+Apply for access to developer Twitter API:
+https://developer.twitter.com/en/apply-for-access
+
 Other guides that discuss twarc installation and usage:
 https://shawngraham.gitbooks.io/dh-workbook/content/docs/supporting%20materials/twarc.html
 https://guides.temple.edu/mining-twitter/scraping
