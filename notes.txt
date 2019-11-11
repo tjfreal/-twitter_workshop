@@ -17,6 +17,11 @@ This site is useful for gathering getting bounding boxes for use with --location
 Make sure you select CSV from the dropdown in the bottom left
 https://boundingbox.klokantech.com/
 
+Bounding boxes in Utah: 
+All of utah (and SW corner of Wyoming):
+-113.99,36.97,-109.07,41.97
+Ogden -> Provo:
+-112.2034,40.1255,-111.5333,41.3738
+SLC:
+-112.06678,40.509755,-111.741996,40.809783
 
-
-PennState twitter research guide: https://guides.libraries.psu.edu/c.php?g=796631&p=5698003
