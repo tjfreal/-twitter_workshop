@@ -1,0 +1,25 @@
+This site is useful for gathering getting bounding boxes for use with --location tag in twarc
+https://boundingbox.klokantech.com/
+
+
+Other guides that discuss twarc installation and usage:
+https://shawngraham.gitbooks.io/dh-workbook/content/docs/supporting%20materials/twarc.html
+https://guides.temple.edu/mining-twitter/scraping
+http://digitalcollecting.lib.virginia.edu/toolkit/docs/social-media/collect-tweets/
+http://digitalcollecting.lib.virginia.edu/toolkit/docs/social-media/installing-twarc/
+https://knightlab.northwestern.edu/2014/03/15/a-beginners-guide-to-collecting-twitter-data-and-a-bit-of-web-scraping/
+https://www.library.unlv.edu/whats_new_in_special_collections/2019/04/new-digital-collections-1-october-twitter-data-tutorial
+https://guides.libraries.psu.edu/c.php?g=796631&p=5698003
+and command line:
+
+
+https://gist.github.com/hipwar/559b265e6e42503ca7eb6a29d6820847
+
+
+and my reference for installing virtualenv
+https://gist.github.com/Geoyi/d9fab4f609e9f75941946be45000632b
+
+
+
+
+PennState twitter research guide: https://guides.libraries.psu.edu/c.php?g=796631&p=5698003
